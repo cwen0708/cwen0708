@@ -31,3 +31,4 @@ Infra       GCP · Firebase · Docker · MQTT
 ---
 
 <sub>AI solutions for real-world problems · Kaohsiung, Taiwan</sub>
+
